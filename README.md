@@ -38,7 +38,7 @@ urlpatterns = [
 
 ## CORS Error
 
-Resource: `https://github.com/adamchainz/django-cors-headers/tree/main`
+Resource: https://github.com/adamchainz/django-cors-headers/tree/main
 
 `python -m pip install django-cors-headers`
 
